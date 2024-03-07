@@ -1,0 +1,28 @@
+{
+    "config": [
+        {
+            "API_KEY": "Your google search engine api key",
+            "SEARCH_ENGINE_ID": "Your google search engine id",
+            "SEARCH_URL": "https://www.googleapis.com/customsearch/v1",
+            "OLLAMA_API_URL": "Your ollama api endpoint",
+            "OLLAMA_MODEL": "Your chosen Ollama model",
+            "HUGGINGFACE_REPO": "Your chosen model from Huggingface. (If this value is not empty, it will be used instead of OLLAMA_MODEL)",
+            "EXCLUDED_SITES": "youtube.com, youtu.be, reddit.com, quora.com, amazon.com, foxnews.com, barnesandnoble.com, usatoday.com",
+            "AMOUNT_LINKS": "10",
+            "LINKS_LIMIT": "4"
+        },
+        {
+            "API_KEY": "Your google search engine api key",
+            "SEARCH_ENGINE_ID": "Your google search engine id",
+            "SEARCH_URL": "https://www.googleapis.com/customsearch/v1",
+            "OLLAMA_API_URL": "Your ollama api endpoint",
+            "OLLAMA_MODEL": "Your chosen Ollama model",
+            "HUGGINGFACE_REPO": "Your chosen model from Huggingface. (If this value is not empty, it will be used instead of OLLAMA_MODEL)",
+            "EXCLUDED_SITES": "youtube.com, youtu.be, wikipedia.org",
+            "AMOUNT_LINKS": "10",
+            "LINKS_LIMIT": "0"
+        }
+    ],
+    "config_chosen": "0",
+    "prompt": ""
+}
