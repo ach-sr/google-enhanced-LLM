@@ -1,4 +1,4 @@
-# google-enhanced-llm
+# google-enhanced-LLM
 A simple tool designed to give chatbots more information from Google, designed to work with Ollama.
 
 
